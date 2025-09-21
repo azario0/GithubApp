@@ -6,11 +6,6 @@ A desktop application built with Python and Tkinter that provides a graphical us
 
 This tool allows you to perform common repository actions like creating, deleting, downloading, and browsing repositories without leaving a comfortable GUI. It features a built-in file browser to view, edit, upload, and delete files directly within your repositories.
 
-## Screenshot
-
-*(It is highly recommended to add a screenshot of your application here)*
-
-![App Screenshot](./screenshot.png)
 
 ## Features
 
