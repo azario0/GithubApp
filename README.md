@@ -87,10 +87,3 @@ This tool allows you to perform common repository actions like creating, deletin
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-### Suggested `LICENSE` file content:
-
-You should create a file named `LICENSE` in the root of your repository and paste the following content into it.
-
