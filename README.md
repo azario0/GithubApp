@@ -1,7 +1,3 @@
-Of course! Based on the provided Python code, here is a comprehensive `README.md` file for your `GithubApp` repository. I've also included the content for the `LICENSE` file as requested.
-
----
-
 # GithubApp
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
